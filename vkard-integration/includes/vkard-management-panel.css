@@ -1,0 +1,20 @@
+/* vkard-management-panel.css */
+
+/* Styliser le panneau de gestion de la vCard */
+.vkard-management-panel {
+    padding: 15px;
+    background-color: #f1f1f1;
+    border: 1px solid #e1e1e1;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.vkard-status-indicator {
+    margin-top: 15px;
+}
+
+.vkard-status {
+    font-size: 16px;
+    font-weight: bold;
+    color: #444;
+}
